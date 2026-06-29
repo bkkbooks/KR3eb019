@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR3eb019/v1
+canonical_location: https://kanripo.org/bkk/KR3eb019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈訣考證
+  identifiers:
+    krp: KR3eb019
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb019.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb019_000.yaml, hash: 'sha256:e4284bbbb526a7dc325971c5656d94cbf3072b840b7694ee54ed3c043197cc8d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb019_000.markers.yaml, hash: 'sha256:6b6bd2b404096a64a2b0e6370fa273d170882c833deb4b9843b9b2b3b5243ae0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb019_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 413
+  label: 脈訣非叔和書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb019_jc_000-d3.h1s1
+    span:
+    - body
+    - 413
+    - 1015
+  label: 七表八里九道之非
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb019_jc_000-d4.h1s1
+    span:
+    - body
+    - 1015
+    - 1579
+  label: 男女脈位
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb019_jc_000-d5.h1s1
+    span:
+    - body
+    - 1579
+    - 2155
+  label: 臟腑部位
+  type: section
+  level: 1
+hash: sha256:8b3460143d226af1f307be8cbc39b29bed79776e397c121d1cb3e3528183f9e2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
