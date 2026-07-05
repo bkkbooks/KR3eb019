@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb019_000.yaml, hash: 'sha256:e4284bbbb526a7dc325971c5656d94cbf3072b840b7694ee54ed3c043197cc8d'}
+  - {seq: 0, filename: KR3eb019_000.yaml, hash: 'sha256:e1840b0d7a8e9f6397f7e38de9b88a9db7baa8e90ef6a5d2d14028c26abf49a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb019_000.markers.yaml, hash: 'sha256:6b6bd2b404096a64a2b0e6370fa273d170882c833deb4b9843b9b2b3b5243ae0'}
+  - {seq: 0, role: markers, filename: assets/KR3eb019_000.markers.yaml, hash: 'sha256:10d7e7c14b3c2f83936706118e79ddef5c37c755708d768ff26e301a9d064282'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,4 @@ table_of_contents:
   label: 臟腑部位
   type: section
   level: 1
-hash: sha256:8b3460143d226af1f307be8cbc39b29bed79776e397c121d1cb3e3528183f9e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9b57b79b0aec2ef21fd47a70eb36d29799704fba33dbb58240b42d2a84a4ff67
