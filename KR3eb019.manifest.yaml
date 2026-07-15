@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb019/v1
 canonical_location: https://kanripo.org/bkk/KR3eb019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 脈訣考證
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb019_000.yaml, hash: 'sha256:e1840b0d7a8e9f6397f7e38de9b88a9db7baa8e90ef6a5d2d14028c26abf49a8'}
+  - {seq: 0, filename: KR3eb019_000.yaml, hash: 'sha256:91053f0848ef0833ac0975e0b4e40148f8486ba361d60f2a4d45bc08b996edba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb019_000.markers.yaml, hash: 'sha256:10d7e7c14b3c2f83936706118e79ddef5c37c755708d768ff26e301a9d064282'}
+  - {seq: 0, role: markers, filename: assets/KR3eb019_000.markers.yaml, hash: 'sha256:1845a3611469e82f6538116684051181465afed55e7b19dcb52c9996eddbced5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 臟腑部位
   type: section
   level: 1
-hash: sha256:9b57b79b0aec2ef21fd47a70eb36d29799704fba33dbb58240b42d2a84a4ff67
+hash: sha256:c5f6aed8e13b3256c01ef9943e2b1753357b7e3700c95cc5cd4f1a7d6cf60ba4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
